@@ -1,3 +1,3 @@
 # martin
 
-Major back-end project.
+Major front-end project.
