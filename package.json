@@ -1,0 +1,8 @@
+{
+  "name": "martin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeanWebDev/martin.git",
+  "author": "Samir Azzouz <s.azzouz97@gmail.com>",
+  "license": "MIT"
+}
