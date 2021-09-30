@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "martin"
+name = "jabba"
 version = "0.1.0"
 description = ""
 authors = ["Samir Azzouz <s.azzouz97@gmail.com>"]
@@ -7,6 +7,10 @@ authors = ["Samir Azzouz <s.azzouz97@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Django = "^3.2.7"
+Flask = "^2.0.1"
+djangorestframework = "^3.12.4"
+Markdown = "^3.3.4"
+django-filter = "^21.1"
 
 [tool.poetry.dev-dependencies]
 
